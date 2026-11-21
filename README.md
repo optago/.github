@@ -1,5 +1,7 @@
 # Óptago
 
+![Animação de abertura Óptago com o octógono verde-lima.](https://raw.githubusercontent.com/optago/.github/8b6273978aac8757ff781a8bbd328b4f590a1a48/profile/assets/optago-abertura.gif)
+
 ## Visão geral
 
 O GitHub renderiza `profile/README.md` na página pública da organização. Este README da raiz apresenta a empresa e serve de referência para quem mantém o perfil.
