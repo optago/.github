@@ -1,5 +1,15 @@
 # Óptago
 
+## Visão geral
+
+O GitHub renderiza `profile/README.md` na página pública da organização. Este README da raiz apresenta a empresa e serve de referência para quem mantém o perfil.
+
+**Sistemas relacionados:** Perfil da organização no GitHub e sites públicos listados abaixo.
+
+## Tecnologias e versões
+
+Markdown renderizado pelo GitHub, imagens do perfil e badges do Shields.io. O repositório não possui manifesto de bibliotecas nem processo de build. O arquivo [`profile/README.md`](profile/README.md) é o ponto de entrada para editar o perfil. Confira a prévia Markdown e os links públicos antes de publicar.
+
 **Sites, sistemas e apps que facilitam o dia a dia da sua empresa.**
 
 Soluções digitais com foco em **segurança**, **privacidade** e **performance**. Criamos e cuidamos de tudo, do primeiro contato à manutenção: sites, lojas virtuais, sistemas próprios, automações com IA e aplicativos sob medida para o seu negócio.
