@@ -1,5 +1,7 @@
 # Óptago
 
+![Animação de abertura Óptago com o octógono verde-lima.](https://raw.githubusercontent.com/optago/.github/main/profile/assets/optago-abertura.gif)
+
 Desenvolvemos sites, sistemas e aplicativos para empresas. De Curitiba (PR), mantemos produtos próprios e conduzimos projetos sob medida, do levantamento de requisitos à manutenção.
 
 [Site oficial](https://optago.com.br/) · [Entrar nos sistemas](https://sso.optago.app.br/) · [Fale com a equipe](https://wa.me/5541999284779)
