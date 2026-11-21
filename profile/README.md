@@ -1,47 +1,38 @@
 # Óptago
 
-**Sites, sistemas e apps que facilitam o dia a dia da sua empresa.**
+Desenvolvemos sites, sistemas e aplicativos para empresas. De Curitiba (PR), mantemos produtos próprios e conduzimos projetos sob medida, do levantamento de requisitos à manutenção.
 
-Soluções digitais com foco em **segurança**, **privacidade** e **performance**. Criamos e cuidamos de tudo, do primeiro contato à manutenção: sites, lojas virtuais, sistemas próprios, automações com IA e aplicativos sob medida para o seu negócio.
+[Site oficial](https://optago.com.br/) · [Acessar o Hub Óptago](https://sso.optago.app.br/) · [Fale com a equipe](https://wa.me/5541999284779)
 
-[![Site](https://img.shields.io/badge/optago.com.br-000000?style=for-the-badge&logoColor=white)](https://optago.com.br)
-[![WhatsApp](https://img.shields.io/badge/Falar_com_um_especialista-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5541999284779)
-[![Acessar sistemas](https://img.shields.io/badge/Acessar_sistemas-1a1a1a?style=for-the-badge&logoColor=white)](https://sso.optago.app.br)
+## Produtos
 
-> Atendimento direto, sem burocracia.
+| Produto | O que faz |
+| --- | --- |
+| [**Estoque NFe**](https://estoquenfe.com.br/) | Captura NF-e emitidas para a empresa e automatiza a entrada de produtos no estoque. |
+| [**Comanda Rápida**](https://comandarapida.com.br/) | Reúne comandas, ponto de venda, estoque e rotinas de gestão para bares, restaurantes e pequenos comércios. |
+| [**Stats Rails**](https://statsrails.optago.app.br/) · acesso com conta Óptago | Mede visitas e eventos sem cookies, monitora a disponibilidade de sites e envia alertas. |
+| [**Brasil Buscador**](https://brasilbuscador.com.br/) | Reúne consultas a dados públicos brasileiros, como CEP, CNPJ, NCM, câmbio e Tabela FIPE. |
 
-## 🚀 Produtos
+## Bibliotecas para desenvolvimento
 
-Ferramentas próprias, usadas por outras empresas todos os dias.
+- **UI Óptago** oferece componentes, temas e tokens para interfaces web em CSS e JavaScript vanilla. [Manual e exemplos](https://ui.optago.com.br/) · [Pacote npm](https://www.npmjs.com/package/ui-optago)
+- **UI Óptago para React Native** leva os tokens e temas da biblioteca web para aplicativos em TypeScript. [Pacote npm](https://www.npmjs.com/package/ui-optago-rn)
 
-| Produto | Descrição | Link |
-| --- | --- | --- |
-| 🎨 **UI Óptago** | Design system em CSS puro e JavaScript vanilla, com temas claro e escuro, para acelerar interfaces consistentes. | [ui.optago.com.br](https://ui.optago.com.br) |
-| 🧾 **Comanda Rápida** | Sistema de gestão completo e eficiente, pensado para o dia a dia de pequenas e médias empresas. | [comandarapida.com.br](https://comandarapida.com.br) |
-| 📈 **Stats Rails** | Análise de acessos e eventos, monitoramento de uptime e alertas para sites e sistemas web. | [statsrails.com](https://statsrails.com) |
-| 🔎 **Brasil Buscador** | CEPs, NCMs e muita outra informação pública organizada, cruzada e fácil de buscar. | [brasilbuscador.com.br](https://brasilbuscador.com.br) |
+## Projetos sob medida
 
-## 🛠️ Serviços
+- **Sites e e-commerce** para apresentar empresas e vender online.
+- **Sistemas e aplicativos personalizados** para apoiar processos específicos da operação.
+- **Automações e integrações** para conectar ferramentas e reduzir tarefas manuais, com IA quando fizer sentido para o fluxo.
+- **Consultoria de TI** em arquitetura, infraestrutura e segurança.
 
-Sob demanda, para empresas que precisam de tecnologia sob medida.
+## Como trabalhamos
 
-- 🌐 **Websites institucionais e e-commerce**: sites e lojas rápidos, seguros e fáceis de manter, do primeiro pixel ao pós-lançamento.
-- 🤖 **Automações com inteligência artificial**: fluxos e agentes que tiram trabalho repetitivo do caminho da sua equipe.
-- 🧭 **Consultorias diversas de T.I.**: diagnóstico e apoio técnico para decisões de infraestrutura, segurança e arquitetura.
-- 📱 **Apps personalizados, do zero ao ar**: aplicativos sob medida para operações que não cabem em soluções genéricas, do levantamento de requisitos à manutenção contínua.
+- **Segurança e privacidade.** Planejamos controle de acesso, backups e coleta mínima de dados desde o início.
+- **Performance e engenharia.** Buscamos tempos de resposta baixos e uma operação que a equipe consiga manter.
+- **Autonomia.** Priorizamos formatos abertos e exportação de dados para que clientes possam usar suas informações em outras ferramentas.
 
-## 🏛️ Os três pilares da Óptago
+## Contato
 
-| 🔐 Segurança | 🕵️ Privacidade | ⚡ Performance |
-| --- | --- | --- |
-| Criptografia, controle de acesso e backups como parte do projeto, não como reboco depois de pronto. | Coleta mínima de dados e tratamento responsável, em conformidade com a LGPD, do formulário ao banco. | Infraestrutura enxuta e nacional, sem gordura: sistemas que respondem rápido e ficam no ar. |
+[WhatsApp](https://wa.me/5541999284779) · [contato@optago.com.br](mailto:contato@optago.com.br) · [LinkedIn](https://www.linkedin.com/company/optago) · [Instagram](https://www.instagram.com/optagobr)
 
-## 📫 Contato
-
-Resposta direta, sem formulário e sem espera.
-
-[![WhatsApp](https://img.shields.io/badge/+55_41_9_9928--4779-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5541999284779)
-[![Instagram](https://img.shields.io/badge/@optagobr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/optagobr)
-[![LinkedIn](https://img.shields.io/badge/Óptago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/optago)
-
-📍 R. Conselheiro Laurindo, 600, Centro, Curitiba - PR, 80060-100
+A Óptago é a continuação da Gallifrey Sistemas. [Conheça a mudança de marca](https://optago.com.br/gallifrey/).
