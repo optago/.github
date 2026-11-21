@@ -63,5 +63,3 @@ Aplicativo Android que reúne os sistemas liberados para a conta da pessoa usuá
 ## Contato
 
 [WhatsApp](https://wa.me/5541999284779) · [contato@optago.com.br](mailto:contato@optago.com.br) · [LinkedIn](https://www.linkedin.com/company/optago) · [Instagram](https://www.instagram.com/optagobr)
-
-A Óptago é a continuação da Gallifrey Sistemas. [Conheça a mudança de marca](https://optago.com.br/gallifrey/).
